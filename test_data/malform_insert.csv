@@ -1,0 +1,7 @@
+dob;gender;postal_code;list_of_vaccines;last_close_contact;last_infected_date;total_infection;total_close_contact_as_infected;total_close_contact_with_infected
+*;'''''';*;Novavax/Pfizer-BioNTech/Novavax/Moderna/Pfizer-BioNTech;2022-09-20;2021-10-16;4;17;75
+*;Female;*;Pfizer-BioNTech/Novavax;2022-09-20;2022-08-04;2;165;'drop schema public'
+;;;;;;;;;;;;;;;;;;;
+
+                   
+;
